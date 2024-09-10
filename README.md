@@ -21,13 +21,13 @@ I was on the NYU's Women's volleyball team and have gone through the recruiting 
 
 From an end-user's perspective, NetWorks will have the following features:
 
-#### 1. User Registration and Profile Management:
+##### 1. User Registration and Profile Management:
 Mentees and Mentors will sign up and create a profile with their relevant details (name, high school, age, etc.). They will then be asked to fill out a questionnaire to describe their preferences regarding recruiting and colleges. Their answers will then populate to their profile. 
 
-#### 2. Meeting Dashboard:
+##### 2. Meeting Dashboard:
 The meeting dashboard will allow mentors to schedule meeting times with mentees. Once a meeting has been scheduled, the meeting information will appear on both the mentors and meentees meeting dashboard with relevant meeting details such as meeting time and meeting platform (ie. Zoom, Google Meet, phone number).
 
-#### 3. Notifications: 
+##### 3. Notifications: 
 The app will send push notifications to alert mentors and mentees of an upcoming meeting. 
 
 
